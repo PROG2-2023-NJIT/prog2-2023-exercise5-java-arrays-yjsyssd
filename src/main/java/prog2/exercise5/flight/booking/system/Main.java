@@ -2,7 +2,7 @@ package prog2.exercise5.flight.booking.system;
 import java.net.BindException;
 import java.time.LocalDate;
 import java.util.Random;
-public class Main {
+public class main {
 
 
 
@@ -10,7 +10,7 @@ public class Main {
      * Hello world!
      *
      */
-    public static class main
+    public static class Main
     {
         public static void main( String[] args )
         {
